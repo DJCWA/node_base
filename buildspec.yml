@@ -3,8 +3,8 @@ version: 0.2
 env:
   variables:
      #AWS_DEFAULT_REGION: "ca-central-1"
-     #IMAGE_REPO_NAME: "add your ECR Repo Name"
-     #AWS_ACCOUNT_ID: "AWS Account Number"
+     #IMAGE_REPO_NAME: "448923944643.dkr.ecr.ca-central-1.amazonaws.com/node_base"
+     #AWS_ACCOUNT_ID: "448923944643"
 
 phases:
   install:
